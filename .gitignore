@@ -1,0 +1,14 @@
+# OSX Noise
+.DS_Store
+
+# XCode (and ancestors) per-user config (very noisy, and not relevant)
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+xcuserdata
